@@ -22,3 +22,7 @@ Put all of your JavaScript files into js-src folder, then run 'grunt watch' if y
 ## Tech
 
 This uses grunt.js, jshint, and uglifyjs to do its magic.
+
+### License
+
+Feel free to use, copy, etc this code under the GPL.
