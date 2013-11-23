@@ -1,0 +1,4 @@
+js/*
+js-src/*
+!js-src/README.md
+node_modules
